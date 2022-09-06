@@ -3,7 +3,7 @@ import "./Welcome.css"
 const Welcome = () => {
   return (
     <div className="welcome-content">
-        <h1>Welcome</h1>
+        <h1>Welcome to Library Management</h1>
     </div>
   )
 }
