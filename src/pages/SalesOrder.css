@@ -1,0 +1,21 @@
+.sales-order-content {
+    background-color: #fff;
+    margin-left: 250px;;
+    height:94.6vh;
+    position: absolute;
+    width: 87%;
+}
+
+.sales-order-content h1 {
+   text-align: center;
+}
+
+.sales-order-content ul li {
+    list-style-type: disc;
+    font-size: 20px;
+    display: flex;
+    padding: 8px;
+    font-weight: bold;
+    /* margin-left: 600px; */
+    justify-content: center;
+}
